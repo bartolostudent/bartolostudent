@@ -70,4 +70,10 @@ public class ListUsersImplTest {
         //then
         verify(listUser).setListUser(lista);
     }
+
+    @DisplayName("Set true")
+    @Test
+    void setTrue(){
+        assert false;
+    }
 }
