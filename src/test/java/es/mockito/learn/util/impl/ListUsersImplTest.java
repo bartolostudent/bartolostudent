@@ -74,6 +74,6 @@ public class ListUsersImplTest {
     @DisplayName("Set true")
     @Test
     void setTrue(){
-        assert true;
+        assert true; 
     }
 }
